@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+
+# Training outputs
+output/
+*.pth
+smoke_test_output.txt
+
+# Dataset videos and archives
+labels/
+videos/
+*.webm
+*.mp4
+*.zip
+*.tar
+*.gz
